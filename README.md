@@ -1,4 +1,4 @@
-# Todo App
+# Basic Networking Classification App
 
 
 ## Description
@@ -16,4 +16,4 @@
 - category: Mobile Prototype
 - author: Brendan Milton
 - description: 
-- stack: Swift/CoreML/CreateML
+- stack: Swift/CoreML/CreateML/Alamofire/Wiki API
