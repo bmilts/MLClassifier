@@ -1,19 +1,7 @@
-# Basic Networking Classification App
+# MLClassifier Photo App
+Application completed to learn more about CoreML/CreateML and Alamofire. CreateML was used to train the classifier to recognize Harry Kane and Cristiano Ronaldo. Once the player is recognized an API call to the players wiki page to return the overview of the player.
 
+## Sample User Flow
 
-## Description
-
-
-## Screenshots
-
-<img src="/titlepage.png"  width="325" /> <img src="/ml.png"  width="325" /> <img src="/ar.png"  width="325" /> 
-
-## Features
-
-* 
-
-## Project Information
-- category: Mobile Prototype
-- author: Brendan Milton
-- description: 
-- stack: Swift/CoreML/CreateML/Alamofire/Wiki API
+<img src="kane.gif" width="190" height="350" />
+<img src="ronaldo.gif" width="190" height="350" />
